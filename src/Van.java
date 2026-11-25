@@ -1,3 +1,5 @@
+package src;
+
 public class Van extends Veiculo implements Avaliavel, Inspecionavel {
     private int maxPassageiros;
     private int somaNotas;

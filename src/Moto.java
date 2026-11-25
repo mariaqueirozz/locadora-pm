@@ -1,3 +1,5 @@
+package src;
+
 public class Moto extends Veiculo implements Inspecionavel {
     private int cilindrada;
     private int inspecoes;

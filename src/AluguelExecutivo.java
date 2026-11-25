@@ -1,3 +1,5 @@
+package src;
+
 public class AluguelExecutivo extends Aluguel implements Avaliavel {
     private int somaNotas;
     private int qtdAvaliacoes;

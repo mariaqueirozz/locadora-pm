@@ -1,3 +1,4 @@
+package src;
 public abstract class Veiculo {
     private String placa;
     private String modelo;

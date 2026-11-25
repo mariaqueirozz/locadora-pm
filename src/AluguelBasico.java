@@ -1,3 +1,4 @@
+package src;
 public class AluguelBasico extends Aluguel {
     public AluguelBasico(String cliente, int dias) { super(cliente, dias); }
 

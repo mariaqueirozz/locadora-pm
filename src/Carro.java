@@ -1,3 +1,5 @@
+package src;
+
 public class Carro extends Veiculo implements Avaliavel {
     private int quantidadePortas;
     private int somaNotas;
